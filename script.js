@@ -27,7 +27,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Juan Fernando Zapata
 ORG:Sierra Pattin Seguros
-TEL;TYPE=CELL:+57 3217151286
+TEL;TYPE=CELL:+573217151286
 EMAIL:juanzapata@sierraseguros.com 
 END:VCARD
   `.trim();
